@@ -47,7 +47,7 @@ h2 {
 footer {
     text-align: center;
     padding: 10px;
-    background-color:#7c73e6 ;
+    background-color:#3223da ;
     color: #fff;
 }
 
@@ -57,7 +57,7 @@ footer p {
 
 
 a {
-    color: #3498db;           
+    color: #2121db;           
     text-decoration: none;    
     font-weight: bold;        
     padding: 8px 16px;       
@@ -68,12 +68,12 @@ a {
 
 
 a:visited {
-    color: #9b59b6; 
+    color: #3a53e3; 
 }
 
 
 a:hover {
-    background-color: #2980b9; 
+    background-color: #1333d1; 
     color: white;              
     text-decoration: underline; 
     cursor: pointer;            
@@ -81,7 +81,7 @@ a:hover {
 
 
 a:active {
-    background-color: #1abc9c; 
+    background-color: #e37c2d; 
     color: white;              
     transform: scale(0.98);   
 }
